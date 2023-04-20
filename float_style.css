@@ -1,0 +1,62 @@
+.first{
+    width: 80%;
+    height: 20%;
+    background-color: rgb(27, 152, 197);
+    position:relative;
+    top: 5%;
+    left: 10%;
+    border-radius: 10px;
+    }
+    .second{
+        width: 80%;
+        height: 20%;
+        background-color: rgb(27, 152, 197);
+        position: relative;
+        top: 10%;
+        left: 10%;
+        border-radius: 10px;
+    }
+    .third{
+        width: 80%;
+        height: 20%;
+        background-color: rgb(27, 152, 197);
+        position: relative;
+        top: 15%;
+        left: 10%;
+        border-radius: 10px;
+    }
+    .fourth{
+        width: 80%;
+        height: 20%;
+        background-color: rgb(27, 152, 197);
+        position: relative;
+        top: 20%;
+        left: 10%;
+        border-radius: 10px;
+    }
+    .image{
+        padding: 12px;
+        height: 80%;
+        border-radius: 50%;
+        float: left;
+    }
+    .image2{
+        padding: 12px;
+        height: 80%;
+        border-radius: 50%;
+        float: right;
+    }
+    .para{
+        font-family: cursive;
+        padding: 10px;
+    }
+    .navv{
+        padding-top: 10px;
+        padding-left: 10px;
+        background-color: aquamarine;
+        height: 40px;
+        
+    }
+    .body{
+        padding: none;
+    }
